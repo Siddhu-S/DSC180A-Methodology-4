@@ -1,9 +1,9 @@
-## DSC 180A Methodology #4
+# DSC 180A Methodology #4
 
-# Name: Siddhartha Sarvepally
-# Email: ssarvepally@ucsd.edu
-# Section: 15
-# Mentor: Professor Saab & Professor Voytek
+## Name: Siddhartha Sarvepally
+### Email: ssarvepally@ucsd.edu
+### Section: 15
+### Mentor: Professor Saab & Professor Voytek
 
 
 **1. What is the most interesting topic covered in your domain this quarter?**
